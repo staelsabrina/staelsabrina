@@ -6,6 +6,14 @@
 [![RocketSeat Badge](https://img.shields.io/badge/-RocketSeat-6633cc?style=flat-square&logo=Polymer-Project&logoColor=white&color=purple&link=https://app.rocketseat.com.br/me/stael-figueiredo-00738)](https://app.rocketseat.com.br/me/stael-figueiredo-00738)
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-6633cc?style=flat-square&logo=HTML5&logoColor=white&color=purple&link=https://staelsabrina.github.io/portfolio/)](https://staelsabrina.github.io/portfolio/)
 
+- 🎓 &nbsp; Sou formada em Direito pela PUCRS
+- 🎓 &nbsp; Estou em transiição de carreira para TI, em Desenvolvimento Front End
+- 💼 &nbsp; Estou buscando minha primeira vaga como Dev
+- 💻 &nbsp; Estou estudando JavaScript, CSS e HTML
+- :art: &nbsp; Além de codar, eu desenho e faço pintura digital, utilizo Krita, Inscape e Gimp
+- 🌱 &nbsp; Vegetariana e louca dos bichos
+
+<h3><strong>Seja muito bem vinda(o) e não repara a bagunça</strong></h3>😄
 
 
 <!--
