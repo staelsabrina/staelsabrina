@@ -1,6 +1,6 @@
 ### 
 <h2> Hello World! Eu sou a Stael Sabrina. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-![](https://komarev.com/ghpvc/?username=staelsabrina&color=purple&style=flat
+![](https://komarev.com/ghpvc/?username=staelsabrina&color=blueviolet&style=flat
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&logoColor=white&color=purple&link=https://www.linkedin.com/in/staelsabrina/)](https://www.linkedin.com/in/staelsabrina/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&color=purple&link=mailto:staelsabrina@gmail.com)](mailto:staelsabrina@gmail.com)
