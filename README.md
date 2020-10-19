@@ -9,11 +9,12 @@
 
 
 - 🎓 &nbsp; Sou formada em Direito pela PUCRS
-- 🎓 &nbsp; Estou em transiição de carreira para TI, em Desenvolvimento Front End
+- 🎓 &nbsp; Estou em transição de carreira para TI, em Desenvolvimento Front End
 - 💼 &nbsp; Estou buscando minha primeira vaga como Dev
 - 💻 &nbsp; Estou estudando JavaScript, CSS e HTML
 - :art: &nbsp; Além de codar, eu desenho e faço pintura digital, utilizo Krita, Inscape e Gimp
 - 🌱 &nbsp; Vegetariana e louca dos bichos
+- 👯 &nbsp; Pronomes: Ela/dela
 
 <h3><strong>Seja muito bem vinda(o) e não repara a bagunça</strong></h3>😄
 
