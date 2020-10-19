@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&logoColor=white&color=purple&link=https://www.linkedin.com/in/staelsabrina/)](https://www.linkedin.com/in/staelsabrina/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&color=purple&link=mailto:staelsabrina@gmail.com)](mailto:staelsabrina@gmail.com)
 [![RocketSeat Badge](https://img.shields.io/badge/-RocketSeat-6633cc?style=flat-square&logo=Polymer-Project&logoColor=white&color=purple&link=https://app.rocketseat.com.br/me/stael-figueiredo-00738)](https://app.rocketseat.com.br/me/stael-figueiredo-00738)
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-6633cc?style=flat-square&logo=Suzuki&logoColor=white&color=purple&link=https://staelsabrina.github.io/portfolio/)](https://staelsabrina.github.io/portfolio/)
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-6633cc?style=flat-square&logo=HTML5&logoColor=white&color=purple&link=https://staelsabrina.github.io/portfolio/)](https://staelsabrina.github.io/portfolio/)
 
 
 
