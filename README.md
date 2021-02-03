@@ -14,7 +14,7 @@
 - 🎓 &nbsp; Estou em transição de carreira para TI, em Desenvolvimento Front End
 - 💼 &nbsp; Estou buscando minha primeira vaga como Dev
 - 💻 &nbsp; Estou estudando JavaScript, CSS e HTML
-- :art: &nbsp; Além de codar, eu desenho e faço pintura digital, utilizo Krita, Inscape e Gimp
+- :art: &nbsp; Além de codar, eu desenho e faço pintura digital, utilizo Krita, Inkscape e Gimp
 - 🌱 &nbsp; Lésbica, casada, vegetariana e louca dos bichos
 - 👯 &nbsp; Pronomes: Ela/dela
 
