@@ -1,7 +1,5 @@
-<img src="./assets/capa.png">
-
 ### 
-<h2> Hello World! Eu sou a Stael Sabrina. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<h2> Hello World! <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&logoColor=white&color=purple&link=https://www.linkedin.com/in/staelsabrina/)](https://www.linkedin.com/in/staelsabrina/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&color=purple&link=mailto:staelsabrina@gmail.com)](mailto:stael.figueiredo@gmail.com)
@@ -11,9 +9,8 @@
 
 
 - 🎓 &nbsp; Sou formada em Direito pela PUCRS
-- 🎓 &nbsp; Estou em transição de carreira para TI, em Desenvolvimento Front End
-- 💼 &nbsp; Estou buscando minha primeira vaga como Dev
-- 💻 &nbsp; Estou estudando JavaScript, CSS e HTML
+- 🎓 &nbsp; Desenvolvedora BackEnd com Kotlin e Java
+- 💻 &nbsp; Sei um pouquinho de JavaScript, CSS e HTML
 - :art: &nbsp; Além de codar, eu desenho e faço pintura digital, utilizo Krita, Inkscape e Gimp
 - 🌱 &nbsp; Lésbica, casada, vegetariana e louca dos bichos
 - 👯 &nbsp; Pronomes: Ela/dela
