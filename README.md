@@ -8,7 +8,8 @@
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-6633cc?style=flat-square&logo=HTML5&logoColor=white&color=purple&link=https://staelsabrina.github.io/portfolio/)](https://staelsabrina.github.io/portfolio/)
 
 
-- 🎓 &nbsp; Sou formada em Direito pela PUCRS
+- 🎓 &nbsp; Estudante de Análise e Desenvolvimento de Sistemas pela Uninter
+- 🎓 &nbsp; Formada em Direito pela PUCRS, migrei pra TECH em 2020
 - 🎓 &nbsp; Desenvolvedora BackEnd com Kotlin e Java
 - 💻 &nbsp; Sei um pouquinho de JavaScript, CSS e HTML
 - :art: &nbsp; Além de codar, eu desenho e faço pintura digital, utilizo Krita, Inkscape e Gimp
