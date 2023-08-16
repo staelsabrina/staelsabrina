@@ -10,7 +10,7 @@
 
 - 🎓 &nbsp; Estudante de Análise e Desenvolvimento de Sistemas pela Uninter
 - 🎓 &nbsp; Formada em Direito pela PUCRS, migrei pra TECH em 2020
-- 🎓 &nbsp; Desenvolvedora BackEnd com Kotlin e Java
+- 💻 &nbsp; Desenvolvedora BackEnd com Kotlin e Java
 - 💻 &nbsp; Sei um pouquinho de JavaScript, CSS e HTML
 - :art: &nbsp; Além de codar, eu desenho e faço pintura digital, utilizo Krita, Inkscape e Gimp
 - 🌱 &nbsp; Lésbica, casada, vegetariana e louca dos bichos
